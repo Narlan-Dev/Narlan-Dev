@@ -27,5 +27,7 @@
  <a href="https://discord.gg/36ytSUpj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:n-arlan12@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/narlan-menezes-838936257" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
+  
+  ![Snake animation](https://github.com/MADARINH4/MADARINH4/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
