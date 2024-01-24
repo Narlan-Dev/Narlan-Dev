@@ -1,4 +1,4 @@
-## Hi, MADARINH4 here!
+## Hi, NARLAN here!
 
 - 🔭 See java/javaScript/html/css
 - 🌱 Studying computer engineering
