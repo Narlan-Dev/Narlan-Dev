@@ -1,6 +1,6 @@
 ## Hi, NARLAN here!
 
-- 🔭 See java/javaScript/html/css
+- 🔭 See react/typeScript/javaScript
 - 🌱 Studying computer engineering
 - 😄 :)
 
