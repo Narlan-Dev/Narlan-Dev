@@ -16,7 +16,6 @@
   <img align="center" alt="Narlan-Dev-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Narlan-Dev-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Narlan-Dev-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="right" alt="Narlan-Dev-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/474x/df/a0/14/dfa0147c626ef602bece7a909a6272c7.jpg">
 </div>
 
 ##
