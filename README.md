@@ -1,9 +1,9 @@
-## Hi, NARLAN here!
+# Hi, NARLAN here!
 
-# 🔭 See react/typeScript/javaScript/angular and learn English
-# I'm including it in several projects regarding web development!
-# Being a scholarship holder when providing maintenance to the website https://ppgcieventos.ufrb.edu.br
-# Developing a marketplace site "Grupo de consumo", it will be prod soon!
+## 🔭 See react/typeScript/javaScript/angular and learn English
+## I'm including it in several projects regarding web development!
+## Being a scholarship holder when providing maintenance to the website https://ppgcieventos.ufrb.edu.br
+## Developing a marketplace site "Grupo de consumo", it will be prod soon!
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Narlan-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
@@ -24,7 +24,7 @@
   <img align="center" alt="Narlan-Dev-MONGO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </div>
 
-##
+#
  
 <div>
   <a href="https://instagram.com/narlanvillanueva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
