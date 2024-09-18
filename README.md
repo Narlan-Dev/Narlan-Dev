@@ -17,11 +17,11 @@
   <img align="center" alt="Narlan-Dev-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Narlan-Dev-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Narlan-Dev-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="Narlan-Dev-ANGULAR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <img align="center" alt="Narlan-Dev-TYPESCRIPT" height="30" width="40" src="https://github.com/user-attachments/assets/8457a676-6339-4b34-a8bf-fb9e41e15367" />
-  <img align="center" alt="Narlan-Dev-PYTHON" height="30" width="40" src="https://github.com/user-attachments/assets/8bc7d08a-d9a9-4c5f-9955-f20bbe7a4ba0" />
-  <img align="center" alt="Narlan-Dev-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <img align="center" alt="Narlan-Dev-MONGO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img align="center" alt="Narlan-Dev-ANGULAR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img align="center" alt="Narlan-Dev-TYPESCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="Narlan-Dev-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Narlan-Dev-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Narlan-Dev-MONGO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 </div>
 
 #
