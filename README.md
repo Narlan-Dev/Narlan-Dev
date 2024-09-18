@@ -1,8 +1,9 @@
 ## Hi, NARLAN here!
 
-- 🔭 See react/typeScript/javaScript
-- 🌱 Studying computer engineering
-- 😄 :)
+# 🔭 See react/typeScript/javaScript/angular and learn English
+# I'm including it in several projects regarding web development!
+# Being a scholarship holder when providing maintenance to the website https://ppgcieventos.ufrb.edu.br
+# Developing a marketplace site "Grupo de consumo", it will be prod soon!
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Narlan-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
@@ -16,6 +17,11 @@
   <img align="center" alt="Narlan-Dev-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Narlan-Dev-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Narlan-Dev-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Narlan-Dev-ANGULAR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img align="center" alt="Narlan-Dev-TYPESCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img align="center" alt="Narlan-Dev-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img align="center" alt="Narlan-Dev-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img align="center" alt="Narlan-Dev-MONGO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </div>
 
 ##
