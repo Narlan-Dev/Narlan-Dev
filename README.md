@@ -20,6 +20,7 @@
   <img align="center" alt="Narlan-Dev-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Narlan-Dev-REACT-NATIVE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
   <img align="center" alt="Narlan-Dev-ANGULAR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img align="center" alt="Narlan-Dev-VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
   <img align="center" alt="Narlan-Dev-TYPESCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Narlan-Dev-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Narlan-Dev-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
