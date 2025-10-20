@@ -1,10 +1,10 @@
 # Hi, NARLAN here!
 
-## 🔭 See php/laravel and learn English
+## Working as a Software Engineer for [ETG](https://etg.company/)
 ## I'm including it in several projects regarding web development!
 ## Being a scholarship holder when providing maintenance to the website https://ppgcieventos.ufrb.edu.br
 ## Website development like, https://sustentar.ness.dev.br, https://acessofacil.ness.dev.br among others!
-## Experience with mobile application development, with react native and node.js
+## Experience with mobile application development, with react native and nest.js: https://play.google.com/apps/br.dev.ness.odf
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Narlan-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
