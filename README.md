@@ -1,6 +1,6 @@
 # Hi, Narlan here!
 
-### Working as a Software Engineer for [ETG](https://etg.company/)
+### Working as a Software Engineer for [SOS-PLANTÃO](https://sosplantao.com/sos/)
 ### I'm including it in several projects regarding web development!
 * Being a scholarship holder when providing maintenance to the website https://ppgcieventos.ufrb.edu.br
 * Website development like, https://sustentar.ness.dev.br, https://acessofacil.ness.dev.br among others!
