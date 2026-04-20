@@ -6,7 +6,9 @@
 * Website development like, https://sustentar.ness.dev.br, https://acessofacil.ness.dev.br among others!
 * Experience with mobile application development, with react native and nest.js: https://play.google.com/apps/br.dev.ness.odf
 
-  <img align="center" alt="Narlan-Dev-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <div styles="height:30; width:40;">  
+    <img align="center" alt="Narlan-Dev-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </div>
   <img align="center" alt="Narlan-Dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Narlan-Dev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Narlan-Dev-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
