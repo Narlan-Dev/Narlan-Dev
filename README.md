@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Narlan Menezes</h1>
+<h1 align="center">Hi, I'm Narlan Menezes</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | Mobile Developer</h3>
 
 <p align="center">
@@ -8,20 +8,20 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💼 Working on several projects focused on **web and mobile development**
-- 🎓 Scholarship holder providing maintenance for the website:  
+- Working on several projects focused on **web and mobile development**
+- Scholarship holder providing maintenance for the website:  
   <a href="https://ppgcieventos.ufrb.edu.br" target="_blank">ppgcieventos.ufrb.edu.br</a>
-- 🌐 Developed websites such as:  
+- Developed websites such as:  
   <a href="https://sustentar.ness.dev.br" target="_blank">sustentar.ness.dev.br</a>  
   <a href="https://acessofacil.ness.dev.br" target="_blank">acessofacil.ness.dev.br</a>
-- 📱 Experience in **mobile app development** using **React Native** and **NestJS**:  
+- Experience in **mobile app development** using **React Native** and **NestJS**:  
   <a href="https://play.google.com/apps/br.dev.ness.odf" target="_blank">View App on Google Play</a>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/narlanvillanueva" target="_blank">
