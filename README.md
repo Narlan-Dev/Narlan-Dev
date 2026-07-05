@@ -19,6 +19,8 @@
   <a href="https://samuellarissa-casa.com.br" target="_blank">samuellarissa-casa.com.br</a>
 - Experience in **mobile app development** using **React Native** and **NestJS**:  
   <a href="https://play.google.com/store/apps/details?id=br.dev.ness.odf" target="_blank">View App on Google Play</a>
+- Working as a teacher:
+  <a href="https://juventudedev.ness.dev.br" target="_blank">Juventude DEV</a>
 
 ---
 
