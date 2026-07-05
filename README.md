@@ -17,7 +17,7 @@
   <a href="https://sustentar.ness.dev.br" target="_blank">sustentar.ness.dev.br</a>  
   <a href="https://acessofacil.ness.dev.br" target="_blank">acessofacil.ness.dev.br</a>
 - Experience in **mobile app development** using **React Native** and **NestJS**:  
-  <a href="https://play.google.com/apps/br.dev.ness.odf" target="_blank">View App on Google Play</a>
+  <a href="https://play.google.com/store/apps/details?id=br.dev.ness.odf" target="_blank">View App on Google Play</a>
 
 ---
 
