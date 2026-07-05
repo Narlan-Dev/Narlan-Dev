@@ -15,11 +15,11 @@
   <a href="https://ppgcieventos.ufrb.edu.br" target="_blank">ppgcieventos.ufrb.edu.br</a>
 - Developed websites such as:  
   <a href="https://sustentar.ness.dev.br" target="_blank">sustentar.ness.dev.br</a>  
-  <a href="https://acessofacil.ness.dev.br" target="_blank">acessofacil.ness.dev.br</a>
+  <a href="https://acessofacil.ness.dev.br" target="_blank">acessofacil.ness.dev.br</a>  
   <a href="https://samuellarissa-casa.com.br" target="_blank">samuellarissa-casa.com.br</a>
 - Experience in **mobile app development** using **React Native** and **NestJS**:  
   <a href="https://play.google.com/store/apps/details?id=br.dev.ness.odf" target="_blank">View App on Google Play</a>
-- Working as a teacher:
+- Working as a teacher:  
   <a href="https://juventudedev.ness.dev.br" target="_blank">Juventude DEV</a>
 
 ---
